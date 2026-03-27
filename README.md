@@ -1,86 +1,94 @@
-<!-- Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ishan%20G&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ishan%20Gaba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ishan</h1>
-<h3 align="center">SAP Solution Engineer | ABAP | AI & Automation | BTP</h3>
+<h2 align="center">🚀 SAP Solution Engineer | Enterprise Systems | AI-Enabled Automation</h2>
 
 <p align="center">
-  <a href="https://github.com/ishangaba">
-    <img src="https://komarev.com/ghpvc/?username=ishangaba&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  Designing scalable SAP solutions with modern engineering and intelligent automation
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 What I Do
 
-🚀 SAP Solution Engineer with strong experience across **ABAP, Fiori, BTP, IBP, and enterprise integrations**  
-🤖 Passionate about building **AI-driven tools for SAP ecosystems**  
-🛠️ Focused on **automation, developer productivity, and performance engineering**  
-💡 Turning real-world SAP problems into scalable technical solutions  
-
----
-
-## ⚡ What I Build
-
-- 🔗 **SAP + AI Solutions** → Intelligent tooling for enterprise workflows  
-- ⚙️ **Developer Tooling** → ABAP automation via ADT APIs  
-- 📊 **Performance Engineering** → ST12/ST05 trace-based optimization  
-- 🔐 **Enterprise Middleware** → Secure GitHub ↔ GitLab SAP integrations  
-- ☁️ **BTP Applications** → Cloud-native SAP extensions  
+- Design enterprise-grade SAP solutions (ABAP, Fiori, BTP)  
+- Build automation for development and delivery workflows  
+- Apply AI to enhance analysis, troubleshooting, and productivity  
+- Develop integration and middleware architectures  
 
 ---
 
-## 🏗️ Featured Projects (Coming Alive 🚧)
+## 🧩 Core Focus Areas
 
-### 🔹 ABAP MCP (SAP Developer Agent Framework)
-> AI-powered interaction with SAP via ADT APIs  
-- CRUD for repository objects  
-- Transport automation  
-- Locking & activation handling  
-
----
-
-### 🔹 SAP Performance Analyzer
-> AI-assisted analysis of ST12 / ST05 traces  
-- Bottleneck detection  
-- SQL + ABAP hotspot identification  
-- Optimization insights  
+### ⚙️ SAP Solution Engineering
+- ABAP development and system design  
+- SAP Fiori and BTP application architecture  
+- Transport and delivery workflows (CTS / gCTS)  
+- Integration patterns across enterprise systems  
 
 ---
 
-### 🔹 Git Approval Proxy (SAP Middleware)
-> Controlled Git flow using SAP as governance layer  
-- PR approval enforcement  
-- Webhook validation  
-- Secure enterprise workflow  
+### 🧠 Intelligent Automation (AI-Assisted)
+- Root cause analysis systems (IAM, logs, workflows)  
+- Performance analysis (ST12 / ST05 traces)  
+- AI-assisted developer tooling  
+- Automation of repetitive engineering tasks  
 
 ---
 
-### 🔹 Service Delivery Agent
-> From trace → insights → client-ready presentation  
-- Automated analysis  
-- Report generation  
-- PPT output for stakeholders  
+### 🔐 Enterprise Integration & Governance
+- GitHub ↔ GitLab approval middleware via SAP  
+- API-driven workflows and webhook orchestration  
+- Secure delivery pipelines  
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 Featured Projects
+
+### 🧠 IAM RCA Agent (Enterprise + AI)
+https://github.com/ishangaba/SailPoint_IAM_RCA_Agent  
+
+- AI-assisted root cause analysis for IAM systems  
+- Analyzes identity workflows and access failures  
+- Reduces manual debugging effort  
+
+---
+
+### ⚙️ SAP Engineering Systems (Professional Work)
+
+- SAP performance analysis (ST12/ST05)  
+- ABAP developer tooling via ADT APIs  
+- Transport automation & governance  
+- Middleware & enterprise integration  
+
+---
+
+### 🛒 Auction Application
+https://github.com/ishangaba/Auction_Application  
+
+- Backend-driven auction platform  
+- Demonstrates system design and workflows  
+
+---
+
+### 🎬 Movie Recommendation System
+https://github.com/ishangaba/Movie_Recommendation_System  
+
+- ML-based recommendation engine  
+- User preference modeling  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,aws,docker,kubernetes,git,github,gitlab,jenkins,terraform,mysql,mongodb" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,aws,docker,kubernetes,git,github,gitlab,jenkins,terraform,mysql,mongodb"/>
 </p>
 
 <p align="center">
-
-`ABAP` `SAP Fiori` `SAP BTP` `SAP IBP` `OData` `REST APIs`  
-`Pandas` `TensorFlow` `Scikit-learn` `Power BI`  
-`Prometheus` `Splunk`
-
+  ABAP • SAP Fiori • SAP BTP • OData • REST • Pandas • TensorFlow
 </p>
 
 ---
@@ -88,44 +96,33 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishangaba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ishangaba&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishangaba&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ishangaba&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- SAP solution architecture  
+- Automation and developer productivity  
+- AI-assisted enterprise tooling  
+- Performance optimization  
+
+---
+
+## 💡 Philosophy
+
+Strong systems are not just built —  
+they are designed, automated, and continuously improved  
+
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangaba&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/ishan-gaba-773261160/">LinkedIn</a> 
 </p>
-
----
-
-## 🎯 Current Focus
-
-- 🧠 AI for SAP engineering workflows  
-- ⚙️ Automation of enterprise processes  
-- 🔍 Performance intelligence systems  
-- 🚀 Building real-world, production-grade tools  
-
----
-
-## 💡 Problem I Solve
-
-Most SAP landscapes lack:
-
-- ❌ Intelligent performance diagnostics  
-- ❌ Developer automation  
-- ❌ Modern Git-based governance  
-
-👉 I build solutions that bridge **SAP + AI + modern engineering practices**
-
----
-
-## 🤝 Let's Connect
-
-💼 Open to collaboration on:
-- SAP + AI projects  
-- Enterprise automation  
-- Developer tooling  
-- Solution architecture  
 
 ---
 
